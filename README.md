@@ -2,7 +2,7 @@
 
 This repo contains the slide deck and sample code from my [presentation](http://rubyconf.org/program#prop_1543) at RubyConf 2015.
 
-*I will post a link to video of the presentation as soon as it is available.*
+The [video](http://confreaks.tv/videos/rubyconf2015-everything-you-know-about-the-gil-is-wrong) is available online at Confreaks.
 
 ## Abstract
 
@@ -10,6 +10,7 @@ This repo contains the slide deck and sample code from my [presentation](http://
 
 ## Important Stuff
 
+* The [video](http://confreaks.tv/videos/rubyconf2015-everything-you-know-about-the-gil-is-wrong) is available online at Confreaks.
 * The slide deck is also [available online](http://www.slideshare.net/JerryDAntonio/everything-you-know-about-the-gil-is-wrong)
 * Source repository for [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
 * Sample code shown during the presentation:
